@@ -1,4 +1,7 @@
 /data
+/.vscode
+/.idea
 /src/.ipynb_checkpoints
 /src/__pycache__
 *.zip
+/src/test-preprocessing.py
