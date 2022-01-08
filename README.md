@@ -1,2 +1,2 @@
 # Detector
-Detecting erroneously labelled CT scans using Deep Neural Networks 
+Deep Neural Network for detecting erroneously labelled CT scans.
